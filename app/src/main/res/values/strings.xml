@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirstSecond Class</string>
+    <string name="user_name">Jogonnath Ray</string>
+    <string name="student">Student</string>
+    <string name="email">Email: royjogonnath67@gmail.com</string>
+    <string name="whatsapp">WhatsApp: +8801518484277</string>
+    <string name="website">Website: www.vokti.hello</string>
+    <string name="linkedin">Linkedin: www.linkedin.com/in/</string>
+    <string name="contact_me">Hire Me</string>
+    <string name="download_cv">Download CV</string>
+</resources>
